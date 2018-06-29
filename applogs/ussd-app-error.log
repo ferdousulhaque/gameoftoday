@@ -56,3 +56,4 @@ Stack trace:
 [29-Jun-2018 12:32:49 Europe/Berlin] PHP Notice:  Undefined index:  in E:\laravel\gameoftoday\get_games_ussd.php on line 143
 [29-Jun-2018 12:40:38 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in E:\laravel\gameoftoday\get_games_ussd.php on line 46
 [29-Jun-2018 12:42:27 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in E:\laravel\gameoftoday\get_games_ussd.php on line 46
+[29-Jun-2018 20:42:51 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in E:\laravel\gameoftoday\get_games_ussd.php on line 46

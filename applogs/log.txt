@@ -473,3 +473,16 @@ Selected response message := Cricket of the day
 Previous Menu is := cricket
 Selected response message := Game of today:
 BANvsSRI 3PM
+[ content=football, address=tel:8801866742387, requestId=1530297735341, applicationId=APP_000001, encoding=0, version=1.0 ]
+[ content=*213*99#, address=tel:8801866742387, requestId=1530297771315, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1233, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=2, address=tel:8801866742387, requestId=1530297781996, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1233, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Football of the day
+                    1.Today
+                    2.Tomorrow
+                    999.Back
+[ content=1, address=tel:8801866742387, requestId=1530297798575, applicationId=APP_000001, encoding=440, version=1.0, sessionId=1233, ussdOperation=mo-cont ]
+Previous Menu is := football
+Selected response message := Game of today:
+GERvsKOR 8PM, BRAvsCRO 11PM

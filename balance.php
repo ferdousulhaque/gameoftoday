@@ -9,13 +9,11 @@ ini_set('error_log', 'applogs/charging-app-error.log');
 try {
 
     //Set the Charged API Address here
-    $charger = new ChargingLib("http://localhost:7000/caas/direct/debit");
-    //Charging one customer
-    $res = $charger->directDebit(100);
+    $balance = new ChargingLib("http://localhost:7000/caas/balance/query");
+
+    $res = $balance->balance();
     $resp = json_decode($res, true);
-    echo 'Your Transaction ID is: '.$resp['externalTrxId'];
-
-
+    echo 'Your Current Balance is: ' . $resp['chargeableBalance'];
 } catch (ChargeException $ex) {
         //throws when failed sending or receiving the sms
     error_log("ERROR: {$ex->getStatusCode()} | {$ex->getStatusMessage()}");

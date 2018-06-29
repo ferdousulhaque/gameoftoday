@@ -2,3 +2,12 @@
 Stack trace:
 #0 {main}
   thrown in E:\laravel\gameoftoday\charger.php on line 22
+[29-Jun-2018 21:04:31 Europe/Berlin] PHP Notice:  Trying to get property of non-object in E:\laravel\gameoftoday\charger.php on line 15
+[29-Jun-2018 21:04:49 Europe/Berlin] PHP Warning:  Illegal string offset 'externalTrxId' in E:\laravel\gameoftoday\charger.php on line 15
+[29-Jun-2018 21:06:49 Europe/Berlin] PHP Warning:  Illegal string offset 'externalTrxId' in E:\laravel\gameoftoday\charger.php on line 15
+[29-Jun-2018 21:07:19 Europe/Berlin] PHP Notice:  Trying to get property of non-object in E:\laravel\gameoftoday\charger.php on line 15
+[29-Jun-2018 21:22:56 Europe/Berlin] PHP Notice:  Undefined variable: charger in E:\laravel\gameoftoday\balance.php on line 14
+[29-Jun-2018 21:22:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function balance() on null in E:\laravel\gameoftoday\balance.php:14
+Stack trace:
+#0 {main}
+  thrown in E:\laravel\gameoftoday\balance.php on line 14

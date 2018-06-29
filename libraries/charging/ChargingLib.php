@@ -10,15 +10,22 @@ class ChargingLib
     }
 
     function directDebit(
-                                $externalTrxId,
-                                $amount,
-                                $applicationId,
-                                $password,
-                                $subscriberId,
-                                $currency,
-                                $accountId
+                                //$externalTrxId,
+                                $amount
+                                //$applicationId,
+                                //$password,
+                                //$subscriberId,
+                                //$currency,
+                                //$accountId
                                 //$paymentInstrumentName
     ) {
+        $externalTrxId = "25609";
+        //$amount = "300";
+        $applicationId = "APP_000010";
+        $password = "8f57d2e8de06e6f2d6ee5da6107d0a4f";
+        $subscriberId = "tel: 8801812345678";
+        $currency = "BDT";
+        $accountId = "8801812345678";
 
         $arrayField = array(
             "externalTrxId" => $externalTrxId,
@@ -28,6 +35,35 @@ class ChargingLib
             "subscriberId" => $subscriberId,
             "currency" => $currency,
             "accountId" => $accountId,
+            "paymentInstrumentName" => "Mobile Account"
+        );
+
+        $jsonObjectFields = json_encode($arrayField);
+        return $this->sendRequest($jsonObjectFields);
+    }
+
+    function balance(
+        //$applicationId,
+        //$password,
+        //$subscriberId,
+        //$currency,
+        //$accountId,
+        //$paymentInstrumentName
+    ){
+        $applicationId = "APP_000010";
+        $password = "8f57d2e8de06e6f2d6ee5da6107d0a4f";
+        $subscriberId = "tel: 8801812345678";
+        $currency = "BDT";
+        $accountId = "8801812345678";
+        $paymentInstrumentName = "Mobile Account";
+
+        $arrayField = array(
+            "applicationId" => $applicationId,
+            "password" => $password,
+            "subscriberId" => $subscriberId,
+            "currency" => $currency,
+            "accountId" => $accountId,
+            "currency" => $currency,
             "paymentInstrumentName" => "Mobile Account"
         );
 
@@ -53,7 +89,7 @@ class ChargingLib
         if ($resp == "") {
             //throw new UssdException("Server URL is invalid", '500');
         } else {
-            echo $resp;
+            return $resp;
         }
     }
 }
