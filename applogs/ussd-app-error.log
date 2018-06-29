@@ -1,0 +1,58 @@
+[29-Jun-2018 08:22:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'MoUssdReceiver' not found in E:\laravel\gameoftoday\get_games_ussd.php:10
+Stack trace:
+#0 {main}
+  thrown in E:\laravel\gameoftoday\get_games_ussd.php on line 10
+[29-Jun-2018 08:23:22 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in E:\laravel\gameoftoday\get_games_ussd.php on line 67
+[29-Jun-2018 08:39:25 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in E:\laravel\gameoftoday\get_games_ussd.php on line 67
+[29-Jun-2018 08:40:43 Europe/Berlin] PHP Notice:  Undefined index: Game of Today:
+ in E:\laravel\gameoftoday\get_games_ussd.php on line 192
+[29-Jun-2018 08:40:43 Europe/Berlin] PHP Notice:  Undefined index: Game of Today:
+ in E:\laravel\gameoftoday\get_games_ussd.php on line 193
+[29-Jun-2018 10:29:11 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Some of the required parameters are not provided in E:\laravel\gameoftoday\libraries\ussd\MoUssdReceiver.php:45
+Stack trace:
+#0 E:\laravel\gameoftoday\get_games_ussd.php(10): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in E:\laravel\gameoftoday\libraries\ussd\MoUssdReceiver.php on line 45
+[29-Jun-2018 10:30:06 Europe/Berlin] PHP Notice:  Undefined index: Game of Today:
+ in E:\laravel\gameoftoday\get_games_ussd.php on line 192
+[29-Jun-2018 10:30:06 Europe/Berlin] PHP Notice:  Undefined index: Game of Today:
+ in E:\laravel\gameoftoday\get_games_ussd.php on line 193
+[29-Jun-2018 10:34:04 Europe/Berlin] PHP Notice:  Undefined index: Game of Today:
+ in E:\laravel\gameoftoday\get_games_ussd.php on line 192
+[29-Jun-2018 10:34:04 Europe/Berlin] PHP Notice:  Undefined index: Game of Today:
+ in E:\laravel\gameoftoday\get_games_ussd.php on line 193
+[29-Jun-2018 10:34:59 Europe/Berlin] PHP Notice:  Undefined index: Game of Today:
+ in E:\laravel\gameoftoday\get_games_ussd.php on line 192
+[29-Jun-2018 10:34:59 Europe/Berlin] PHP Notice:  Undefined index: Game of Today:
+ in E:\laravel\gameoftoday\get_games_ussd.php on line 193
+[29-Jun-2018 10:40:42 Europe/Berlin] PHP Notice:  Undefined index: Game of Today:
+BANvsSRI 3PM in E:\laravel\gameoftoday\get_games_ussd.php on line 176
+[29-Jun-2018 10:40:42 Europe/Berlin] PHP Notice:  Undefined index: Game of Today:
+BANvsSRI 3PM in E:\laravel\gameoftoday\get_games_ussd.php on line 177
+[29-Jun-2018 11:13:33 Europe/Berlin] PHP Notice:  Undefined variable: gameoftoday in E:\laravel\gameoftoday\get_games_ussd.php on line 48
+[29-Jun-2018 11:13:44 Europe/Berlin] PHP Notice:  Undefined variable: gameoftoday in E:\laravel\gameoftoday\get_games_ussd.php on line 48
+[29-Jun-2018 11:56:32 Europe/Berlin] PHP Notice:  Undefined index:  in E:\laravel\gameoftoday\get_games_ussd.php on line 188
+[29-Jun-2018 11:56:32 Europe/Berlin] PHP Notice:  Undefined index:  in E:\laravel\gameoftoday\get_games_ussd.php on line 189
+[29-Jun-2018 12:01:47 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Some of the required parameters are not provided in E:\laravel\gameoftoday\libraries\ussd\MoUssdReceiver.php:45
+Stack trace:
+#0 E:\laravel\gameoftoday\get_games_ussd.php(10): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in E:\laravel\gameoftoday\libraries\ussd\MoUssdReceiver.php on line 45
+[29-Jun-2018 12:07:01 Europe/Berlin] PHP Notice:  Undefined index:  in E:\laravel\gameoftoday\get_games_ussd.php on line 94
+[29-Jun-2018 12:07:01 Europe/Berlin] PHP Notice:  Undefined index:  in E:\laravel\gameoftoday\get_games_ussd.php on line 95
+[29-Jun-2018 12:10:01 Europe/Berlin] PHP Notice:  Undefined index:  in E:\laravel\gameoftoday\get_games_ussd.php on line 94
+[29-Jun-2018 12:10:56 Europe/Berlin] PHP Notice:  Undefined index:  in E:\laravel\gameoftoday\get_games_ussd.php on line 94
+[29-Jun-2018 12:25:53 Europe/Berlin] PHP Notice:  Undefined variable: game in E:\laravel\gameoftoday\get_games_ussd.php on line 120
+[29-Jun-2018 12:25:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getGameUSSD() on null in E:\laravel\gameoftoday\get_games_ussd.php:120
+Stack trace:
+#0 {main}
+  thrown in E:\laravel\gameoftoday\get_games_ussd.php on line 120
+[29-Jun-2018 12:28:05 Europe/Berlin] PHP Notice:  Undefined variable: game in E:\laravel\gameoftoday\get_games_ussd.php on line 136
+[29-Jun-2018 12:28:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getGameUSSD() on null in E:\laravel\gameoftoday\get_games_ussd.php:136
+Stack trace:
+#0 {main}
+  thrown in E:\laravel\gameoftoday\get_games_ussd.php on line 136
+[29-Jun-2018 12:32:49 Europe/Berlin] PHP Notice:  Undefined index:  in E:\laravel\gameoftoday\get_games_ussd.php on line 142
+[29-Jun-2018 12:32:49 Europe/Berlin] PHP Notice:  Undefined index:  in E:\laravel\gameoftoday\get_games_ussd.php on line 143
+[29-Jun-2018 12:40:38 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in E:\laravel\gameoftoday\get_games_ussd.php on line 46
+[29-Jun-2018 12:42:27 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in E:\laravel\gameoftoday\get_games_ussd.php on line 46

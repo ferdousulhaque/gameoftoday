@@ -1,0 +1,46 @@
+[28-Jun-2018 19:24:34 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Some of the required parameters are not provided in E:\laravel\gameoftoday\libraries\sms\SmsReceiver.php:37
+Stack trace:
+#0 E:\laravel\gameoftoday\get_games.php(12): SmsReceiver->__construct()
+#1 {main}
+  thrown in E:\laravel\gameoftoday\libraries\sms\SmsReceiver.php on line 37
+[28-Jun-2018 19:55:03 Europe/Berlin] PHP Notice:  Undefined variable: con in E:\laravel\gameoftoday\libraries\game.php on line 13
+[28-Jun-2018 19:55:03 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in E:\laravel\gameoftoday\libraries\game.php on line 16
+[28-Jun-2018 19:55:03 Europe/Berlin] PHP Notice:  Undefined variable: dbcon in E:\laravel\gameoftoday\libraries\game.php on line 20
+[28-Jun-2018 19:55:03 Europe/Berlin] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in E:\laravel\gameoftoday\libraries\game.php on line 20
+[28-Jun-2018 19:55:46 Europe/Berlin] PHP Notice:  Undefined variable: dbcon in E:\laravel\gameoftoday\libraries\game.php on line 20
+[28-Jun-2018 19:55:46 Europe/Berlin] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in E:\laravel\gameoftoday\libraries\game.php on line 20
+[28-Jun-2018 19:56:49 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Some of the required parameters are not provided in E:\laravel\gameoftoday\libraries\sms\SmsReceiver.php:37
+Stack trace:
+#0 E:\laravel\gameoftoday\get_games.php(12): SmsReceiver->__construct()
+#1 {main}
+  thrown in E:\laravel\gameoftoday\libraries\sms\SmsReceiver.php on line 37
+[29-Jun-2018 06:09:12 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Some of the required parameters are not provided in E:\laravel\gameoftoday\libraries\sms\SmsReceiver.php:37
+Stack trace:
+#0 E:\laravel\gameoftoday\get_games.php(12): SmsReceiver->__construct()
+#1 {main}
+  thrown in E:\laravel\gameoftoday\libraries\sms\SmsReceiver.php on line 37
+[29-Jun-2018 06:10:33 Europe/Berlin] PHP Notice:  Undefined variable: con in E:\laravel\gameoftoday\libraries\game.php on line 13
+[29-Jun-2018 06:10:33 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in E:\laravel\gameoftoday\libraries\game.php on line 16
+[29-Jun-2018 06:10:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in E:\laravel\gameoftoday\libraries\game.php:17
+Stack trace:
+#0 E:\laravel\gameoftoday\get_games.php(30): GameNews->getGame(Array)
+#1 {main}
+  thrown in E:\laravel\gameoftoday\libraries\game.php on line 17
+[29-Jun-2018 06:11:20 Europe/Berlin] PHP Notice:  Undefined variable: con in E:\laravel\gameoftoday\libraries\game.php on line 13
+[29-Jun-2018 06:11:20 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in E:\laravel\gameoftoday\libraries\game.php on line 16
+[29-Jun-2018 06:11:20 Europe/Berlin] PHP Notice:  Undefined variable: dbcon in E:\laravel\gameoftoday\libraries\game.php on line 20
+[29-Jun-2018 06:11:20 Europe/Berlin] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in E:\laravel\gameoftoday\libraries\game.php on line 20
+[29-Jun-2018 06:54:17 Europe/Berlin] PHP Notice:  Undefined variable: dbcon in E:\laravel\gameoftoday\libraries\game.php on line 16
+[29-Jun-2018 06:54:17 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in E:\laravel\gameoftoday\libraries\game.php on line 19
+[29-Jun-2018 06:54:17 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in E:\laravel\gameoftoday\libraries\game.php on line 20
+[29-Jun-2018 06:54:17 Europe/Berlin] PHP Notice:  Undefined variable: dbcon in E:\laravel\gameoftoday\libraries\game.php on line 23
+[29-Jun-2018 06:54:17 Europe/Berlin] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in E:\laravel\gameoftoday\libraries\game.php on line 23
+[29-Jun-2018 07:01:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to private method GameNews::getGame() from context '' in E:\laravel\gameoftoday\get_games.php:30
+Stack trace:
+#0 {main}
+  thrown in E:\laravel\gameoftoday\get_games.php on line 30
+[29-Jun-2018 08:37:11 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Some of the required parameters are not provided in E:\laravel\gameoftoday\libraries\sms\SmsReceiver.php:37
+Stack trace:
+#0 E:\laravel\gameoftoday\get_games.php(12): SmsReceiver->__construct()
+#1 {main}
+  thrown in E:\laravel\gameoftoday\libraries\sms\SmsReceiver.php on line 37

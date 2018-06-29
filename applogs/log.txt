@@ -1,0 +1,475 @@
+
+[ content=80 144, address=tel:8801866742387, requestId=1530208503275, applicationId=APP_000001, encoding=0, version=1.0 ]
+[ content=football, address=tel:8801866742387, requestId=1530208546921, applicationId=APP_000001, encoding=0, version=1.0 ]
+[ content=football, address=tel:8801866742387, requestId=1530245433639, applicationId=APP_000001, encoding=0, version=1.0 ]
+[ content=football, address=tel:8801866742387, requestId=1530245480873, applicationId=APP_000001, encoding=0, version=1.0 ]
+[ content=football, address=tel:8801866742387, requestId=1530248057054, applicationId=APP_000001, encoding=0, version=1.0 ]
+[ content=football, address=tel:8801866742387, requestId=1530248112137, applicationId=APP_000001, encoding=0, version=1.0 ]
+[ content=football, address=tel:8801866742387, requestId=1530248444941, applicationId=APP_000001, encoding=0, version=1.0 ]
+[ content=football, address=tel:8801866742387, requestId=1530248487930, applicationId=APP_000001, encoding=0, version=1.0 ]
+[ content=football, address=tel:8801866742387, requestId=1530248517132, applicationId=APP_000001, encoding=0, version=1.0 ]
+[ content=football, address=tel:8801866742387, requestId=1530248706205, applicationId=APP_000001, encoding=0, version=1.0 ]
+[ content=*213*99#, address=tel:8801866742387, requestId=1530253402150, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:8801866742387, requestId=1530253418244, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Day of the Game
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=2, address=tel:8801866742387, requestId=1530253426328, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket
+Selected response message := Nawam mawatha,Colombo, Srilanka.
+                    999.Back
+[ content=999, address=tel:8801866742387, requestId=1530253433392, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket-hist
+Selected response message := Day of the Game
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=999, address=tel:8801866742387, requestId=1530253441659, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket
+Selected response message := 1.Cricket
+                    2.Football
+                    3.Badminton
+                    000.Exit
+[ content=000, address=tel:8801866742387, requestId=1530253448394, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+[ content=football, address=tel:8801866742387, requestId=1530254251256, applicationId=APP_000001, encoding=0, version=1.0 ]
+[ content=*213*99#, address=tel:8801866742387, requestId=1530254365893, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=2, address=tel:8801866742387, requestId=1530254382949, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Day of the Game
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=1, address=tel:8801866742387, requestId=1530254398046, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := football
+Selected response message := Career grade service delivery platform
+                    999.Back
+[ content=999, address=tel:8801866742387, requestId=1530254416753, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := football-hist
+Selected response message := Day of the Game
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=999, address=tel:8801866742387, requestId=1530254427011, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := football
+Selected response message := 1.Cricket
+                    2.Football
+                    3.Badminton
+                    000.Exit
+[ content=1, address=tel:8801866742387, requestId=1530254434298, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Day of the Game
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=1, address=tel:8801866742387, requestId=1530254443388, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket
+Selected response message := 
+[ content=*213*99#, address=tel:8801866742387, requestId=1530260969806, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := cricket-hist
+[ content=2, address=tel:8801866742387, requestId=1530260982719, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := cricket-hist
+[ content=2, address=tel:8801866742387, requestId=1530260998002, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket-hist
+Selected response message := Day of the Game
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=1, address=tel:8801866742387, requestId=1530261006193, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket
+Selected response message := 
+[ content=1, address=tel:8801866742387, requestId=1530261165909, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := cricket-hist
+[ content=1, address=tel:8801866742387, requestId=1530261234221, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket-hist
+Selected response message := Day of the Game
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=1, address=tel:8801866742387, requestId=1530261244575, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket
+Selected response message := 
+[ content=1, address=tel:8801866742387, requestId=1530261273927, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := cricket-hist
+[ content=2, address=tel:8801866742387, requestId=1530261280907, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := cricket-hist
+[ content=2, address=tel:8801866742387, requestId=1530261288290, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket-hist
+Selected response message := Day of the Game
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=1, address=tel:8801866742387, requestId=1530261299619, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket
+Selected response message := 
+[ content=*213*99#, address=tel:8801866742387, requestId=1530261419534, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := cricket-hist
+[ content=2, address=tel:8801866742387, requestId=1530261425336, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := cricket-hist
+[ content=*213*99#, address=tel:8801866742387, requestId=1530261456344, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := cricket-hist
+[ content=2, address=tel:8801866742387, requestId=1530261464750, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket-hist
+Selected response message := Cricket of the day
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=1, address=tel:8801866742387, requestId=1530261642943, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket
+Selected response message := 
+[ content=1, address=tel:8801866742387, requestId=1530263275804, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := cricket-hist
+[ content=1, address=tel:8801866742387, requestId=1530263283115, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := cricket-hist
+[ content=1, address=tel:8801866742387, requestId=1530263289993, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket-hist
+Selected response message := cricket
+[ content=1, address=tel:8801866742387, requestId=1530263613409, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := cricket
+[ content=1, address=tel:8801866742387, requestId=1530263624359, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket
+Selected response message := 
+[ content=1, address=tel:8801866742387, requestId=1530263697264, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket-hist
+Selected response message := Cricket of the day
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=1, address=tel:8801866742387, requestId=1530263712123, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket
+Selected response message := Select Game
+[ content=1, address=tel:8801866742387, requestId=1530263842395, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := cricket-hist
+[ content=2, address=tel:8801866742387, requestId=1530263851139, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := cricket-hist
+[ content=1, address=tel:8801866742387, requestId=1530263874431, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := cricket-hist
+[ content=2, address=tel:8801866742387, requestId=1530263884317, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket-hist
+Selected response message := Cricket of the day
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=1, address=tel:8801866742387, requestId=1530263894566, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket
+Selected response message := Game of Today:
+BANvsSRI 3PM
+[ content=1, address=tel:8801866742387, requestId=1530264375575, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := cricket-hist
+[ content=2, address=tel:8801866742387, requestId=1530264383668, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket-hist
+Selected response message := Cricket of the day
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=3, address=tel:8801866742387, requestId=1530264399885, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket
+Selected response message := Game of Today:
+BANvsSRI 3PM
+[ content=3, address=tel:8801866742387, requestId=1530264438515, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := cricket-hist
+[ content=1, address=tel:8801866742387, requestId=1530264447864, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket-hist
+Selected response message := Cricket of the day
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=2, address=tel:8801866742387, requestId=1530264455189, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket
+Selected response message := Game of 2018-06-29:
+BANvsSRI 3PM
+[ content=2, address=tel:8801866742387, requestId=1530265853900, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := cricket-hist
+[ content=1, address=tel:8801866742387, requestId=1530265862409, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket-hist
+Selected response message := Cricket of the day
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=1, address=tel:8801866742387, requestId=1530265953676, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := cricket
+[ content=1, address=tel:8801866742387, requestId=1530265963421, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket
+Selected response message := Game of today:
+BANvsSRI 3PM
+[ content=*213*99#, address=tel:8801866742387, requestId=1530266181262, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := cricket-hist
+[ content=2, address=tel:8801866742387, requestId=1530266192790, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket-hist
+Selected response message := 
+[ content=*213*99#, address=tel:8801866742387, requestId=1530266231748, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=2, address=tel:8801866742387, requestId=1530266239864, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Football of the day
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=1, address=tel:8801866742387, requestId=1530266249011, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := football
+Selected response message := Game of today:
+GERvsKOR 8PM, BRAvsCRO 11PM
+[ content=*213*99#, address=tel:8801866742387, requestId=1530266265737, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := football-hist
+[ content=1, address=tel:8801866742387, requestId=1530266273971, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := football-hist
+Selected response message := Football of the day
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=1, address=tel:8801866742387, requestId=1530266281676, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := football
+Selected response message := Game of today:
+GERvsKOR 8PM, BRAvsCRO 11PM
+[ content=1, address=tel:8801866742387, requestId=1530266290538, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := football-hist
+[ content=*213*99#, address=tel:8801866742387, requestId=1530266307099, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := football-hist
+[ content=3, address=tel:8801866742387, requestId=1530266322875, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := football-hist
+Selected response message := Football of the day
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=*213*99#, address=tel:8801866742387, requestId=1530266353740, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := football
+[ content=1, address=tel:8801866742387, requestId=1530266362555, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := football
+Selected response message := Game of today:
+GERvsKOR 8PM, BRAvsCRO 11PM
+[ content=*213*99#, address=tel:8801866742387, requestId=1530266438706, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := football-hist
+[ content=3, address=tel:8801866742387, requestId=1530266446587, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := football-hist
+Selected response message := Football of the day
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=*213*99#, address=tel:8801866742387, requestId=1530266515922, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := football
+[ content=3, address=tel:8801866742387, requestId=1530266526867, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := football
+Selected response message := Game of yestarday:
+GERvsKOR 8PM, BRAvsCRO 11PM
+[ content=*213*99#, address=tel:8801866742387, requestId=1530266655865, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := football
+[ content=2, address=tel:8801866742387, requestId=1530266665090, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := football
+Selected response message := Game of tomorrow:
+GERvsKOR 8PM, BRAvsCRO 11PM
+[ content=*213*99#, address=tel:8801866742387, requestId=1530266677498, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := badminton-hist
+[ content=2, address=tel:8801866742387, requestId=1530266684874, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := badminton-hist
+[ content=*213*99#, address=tel:8801866742387, requestId=1530266697680, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := badminton-hist
+[ content=*213*99#, address=tel:8801866742387, requestId=1530266704509, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := badminton-hist
+Selected response message := Badminton of the day
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=*213*99#, address=tel:8801866742387, requestId=1530266712668, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := badminton
+Selected response message := 1.Cricket
+                    2.Football
+                    3.Badminton
+                    000.Exit
+[ content=*213*99#, address=tel:8801866742387, requestId=1530266718839, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket-hist
+Selected response message := Cricket of the day
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=*213*99#, address=tel:8801866742387, requestId=1530266725842, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket
+Selected response message := 1.Cricket
+                    2.Football
+                    3.Badminton
+                    000.Exit
+[ content=3, address=tel:8801866742387, requestId=1530266737080, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := football-hist
+Selected response message := Football of the day
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=*213*99#, address=tel:8801866742387, requestId=1530266814576, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := football
+[ content=3, address=tel:8801866742387, requestId=1530266821003, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := football
+Selected response message := 
+[ content=*213*99#, address=tel:8801866742387, requestId=1530266994509, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := football
+[ content=2, address=tel:8801866742387, requestId=1530267001326, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := football
+Selected response message := 
+[ content=2, address=tel:8801866742387, requestId=1530267046180, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := football
+[ content=3, address=tel:8801866742387, requestId=1530267056114, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := football
+Selected response message := 
+[ content=3, address=tel:8801866742387, requestId=1530267224730, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := football
+[ content=2, address=tel:8801866742387, requestId=1530267232297, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := football
+Selected response message := Game of tomorrow:
+GERvsKOR 8PM, BRAvsCRO 11PM
+[ content=2, address=tel:8801866742387, requestId=1530267276878, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := football
+[ content=3, address=tel:8801866742387, requestId=1530267283696, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := football
+[ content=3, address=tel:8801866742387, requestId=1530267289314, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := football
+Selected response message := Game of yestarday:
+GERvsKOR 8PM, BRAvsCRO 11PM
+[ content=*213*99#, address=tel:8801866742387, requestId=1530267946277, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := football
+[ content=3, address=tel:8801866742387, requestId=1530267953106, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := football
+[ content=3, address=tel:8801866742387, requestId=1530267985545, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := football-hist
+Selected response message := Football of the day
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=999, address=tel:8801866742387, requestId=1530268037401, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := football
+Selected response message := 1.Cricket
+                    2.Football
+                    3.Badminton
+                    000.Exit
+[ content=1, address=tel:8801866742387, requestId=1530268043384, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Cricket of the day
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=999, address=tel:8801866742387, requestId=1530268053554, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket
+Selected response message := 1.Cricket
+                    2.Football
+                    3.Badminton
+                    000.Exit
+[ content=2, address=tel:8801866742387, requestId=1530268058884, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Football of the day
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=999, address=tel:8801866742387, requestId=1530268068123, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := football
+Selected response message := 1.Cricket
+                    2.Football
+                    3.Badminton
+                    000.Exit
+[ content=3, address=tel:8801866742387, requestId=1530268076381, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Badminton of the day
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=1, address=tel:8801866742387, requestId=1530268085462, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := badminton
+[ content=999, address=tel:8801866742387, requestId=1530268154522, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := badminton-hist
+Selected response message := Badminton of the day
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=999, address=tel:8801866742387, requestId=1530268164245, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := badminton
+[ content=3, address=tel:8801866742387, requestId=1530268175056, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := badminton
+Selected response message := Game of yestarday:
+
+[ content=*213*99#, address=tel:8801866742387, requestId=1530268338575, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := badminton-hist
+[ content=*213*99#, address=tel:8801866742387, requestId=1530268356871, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := badminton-hist
+[ content=2, address=tel:8801866742387, requestId=1530268369035, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := badminton-hist
+Selected response message := 
+[ content=2, address=tel:8801866742387, requestId=1530268423082, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:8801866742387, requestId=1530268431579, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Cricket of the day
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=2, address=tel:8801866742387, requestId=1530268447022, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket
+Selected response message := Game of tomorrow:
+BANvsSRI 3PM
+[ content=2, address=tel:8801866742387, requestId=1530268457063, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := cricket-hist
+[ content=3, address=tel:8801866742387, requestId=1530268464456, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket-hist
+Selected response message := Cricket of the day
+                    1.Today
+                    2.Tomorrow
+                    3.Yestarday
+                    999.Back
+[ content=2, address=tel:8801866742387, requestId=1530268499152, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := cricket
+[ content=3886565, address=tel:8801866742387, requestId=1530268507814, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := cricket
+[ content=2, address=tel:8801866742387, requestId=1530268517106, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket
+Selected response message := Game of tomorrow:
+BANvsSRI 3PM
+[ content=*213*99#, address=tel:8801866742387, requestId=1530268838064, applicationId=APP_000001, encoding=440, version=1.0, sessionId=3344, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=2, address=tel:8801866742387, requestId=1530268908177, applicationId=APP_000001, encoding=440, version=1.0, sessionId=3344, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Football of the day
+                    1.Today
+                    2.Tomorrow
+                    999.Back
+[ content=2, address=tel:8801866742387, requestId=1530268925077, applicationId=APP_000001, encoding=440, version=1.0, sessionId=3344, ussdOperation=mo-cont ]
+Previous Menu is := football
+Selected response message := Game of tomorrow:
+GERvsKOR 8PM, BRAvsCRO 11PM
+[ content=*213*99#, address=tel:8801866742387, requestId=1530268947422, applicationId=APP_000001, encoding=440, version=1.0, sessionId=3342, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:8801866742387, requestId=1530268963715, applicationId=APP_000001, encoding=440, version=1.0, sessionId=3342, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Cricket of the day
+                    1.Today
+                    2.Tomorrow
+                    999.Back
+[ content=1, address=tel:8801866742387, requestId=1530268978141, applicationId=APP_000001, encoding=440, version=1.0, sessionId=3342, ussdOperation=mo-cont ]
+Previous Menu is := cricket
+Selected response message := Game of today:
+BANvsSRI 3PM

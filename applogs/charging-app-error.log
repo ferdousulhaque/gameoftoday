@@ -1,0 +1,4 @@
+[29-Jun-2018 13:11:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to private method ChargingLib::directDebit() from context '' in E:\laravel\gameoftoday\charger.php:22
+Stack trace:
+#0 {main}
+  thrown in E:\laravel\gameoftoday\charger.php on line 22
