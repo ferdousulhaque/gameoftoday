@@ -11,10 +11,10 @@ try {
     //Set the Charged API Address here
     $charger = new ChargingLib("http://localhost:7000/caas/direct/debit");
     //Charging one customer
-    $res = $charger->directDebit(100);
+    $res = $charger->directDebit(1000);
     $resp = json_decode($res, true);
-    echo 'Your Transaction ID is: '.$resp['externalTrxId'];
-
+    //echo 'Your Transaction ID is: '.$resp['externalTrxId'];
+    header('Location: http://lara.local/gameoftoday/eComPage.php');
 
 } catch (ChargeException $ex) {
         //throws when failed sending or receiving the sms

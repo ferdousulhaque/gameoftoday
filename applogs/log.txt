@@ -486,3 +486,21 @@ Selected response message := Football of the day
 Previous Menu is := football
 Selected response message := Game of today:
 GERvsKOR 8PM, BRAvsCRO 11PM
+[ content=football, address=tel:8801866742387, requestId=1530348023892, applicationId=APP_000001, encoding=0, version=1.0 ]
+[ content=*213*99#, address=tel:8801866742387, requestId=1530348061007, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := products-hist
+[ content=2, address=tel:8801866742387, requestId=1530348074104, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := products-hist
+Selected response message := 
+[ content=*213*99#, address=tel:8801866742387, requestId=1530348096567, applicationId=APP_000001, encoding=440, version=1.0, sessionId=3344, ussdOperation=mo-init ]
+Previous Menu is := football-hist
+[ content=2, address=tel:8801866742387, requestId=1530348107468, applicationId=APP_000001, encoding=440, version=1.0, sessionId=3344, ussdOperation=mo-cont ]
+Previous Menu is := football-hist
+Selected response message := Football of the day
+                    1.Today
+                    2.Tomorrow
+                    999.Back
+[ content=1, address=tel:8801866742387, requestId=1530348117779, applicationId=APP_000001, encoding=440, version=1.0, sessionId=3344, ussdOperation=mo-cont ]
+Previous Menu is := football
+Selected response message := Game of today:
+GERvsKOR 8PM, BRAvsCRO 11PM
