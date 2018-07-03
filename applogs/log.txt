@@ -504,3 +504,5 @@ Selected response message := Football of the day
 Previous Menu is := football
 Selected response message := Game of today:
 GERvsKOR 8PM, BRAvsCRO 11PM
+[ content=*213*99#, address=tel:8801866742387, requestId=1530630105918, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
