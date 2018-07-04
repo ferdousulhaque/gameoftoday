@@ -64,8 +64,8 @@
           <div class="card">
             <img class="card-img-top" src="http://placehold.it/500x325" alt="">
             <div class="card-body">
-              <h4 class="card-title">Product 01</h4>
-              <p class="card-text">Buy the product 01</p>
+              <h4 class="card-title">Price 50 BDT</h4>
+              <p class="card-text">Product 01</p>
             </div>
             <div class="card-footer">
               <a href="http://lara.local/gameoftoday/charger_50.php" class="btn btn-primary">Buy Now</a>
@@ -77,8 +77,8 @@
           <div class="card">
             <img class="card-img-top" src="http://placehold.it/500x325" alt="">
             <div class="card-body">
-              <h4 class="card-title">Product 02</h4>
-              <p class="card-text">Buy the product 02</p>
+              <h4 class="card-title">Price 100 BDT</h4>
+              <p class="card-text">Product 02</p>
             </div>
             <div class="card-footer">
               <a href="http://lara.local/gameoftoday/charger_100.php" class="btn btn-primary">Buy Now</a>
@@ -90,8 +90,8 @@
           <div class="card">
             <img class="card-img-top" src="http://placehold.it/500x325" alt="">
             <div class="card-body">
-              <h4 class="card-title">Product 03</h4>
-              <p class="card-text">Buy the product 03</p>
+              <h4 class="card-title">Price 150 BDT</h4>
+              <p class="card-text">Product 03</p>
             </div>
             <div class="card-footer">
               <a href="http://lara.local/gameoftoday/charger_150.php" class="btn btn-primary">Buy Now</a>
@@ -103,8 +103,8 @@
           <div class="card">
             <img class="card-img-top" src="http://placehold.it/500x325" alt="">
             <div class="card-body">
-              <h4 class="card-title">Product 04</h4>
-              <p class="card-text">Buy the product 04</p>
+              <h4 class="card-title">Price 1000 BDT</h4>
+              <p class="card-text">Product 04</p>
             </div>
             <div class="card-footer">
               <a href="http://lara.local/gameoftoday/charger_1000.php" class="btn btn-primary">Buy Now</a>

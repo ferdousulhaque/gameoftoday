@@ -506,3 +506,33 @@ Selected response message := Game of today:
 GERvsKOR 8PM, BRAvsCRO 11PM
 [ content=*213*99#, address=tel:8801866742387, requestId=1530630105918, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
 Previous Menu is := 
+[ content=football, address=tel:8801866742387, requestId=1530630968095, applicationId=APP_000001, encoding=0, version=1.0 ]
+[ content=*213*99#, address=tel:8801866742387, requestId=1530630990229, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := main
+[ content=1, address=tel:8801866742387, requestId=1530631001091, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Cricket of the day
+                    1.Today
+                    2.Tomorrow
+                    999.Back
+[ content=1, address=tel:8801866742387, requestId=1530631011129, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := cricket
+Selected response message := Game of today:
+Australia vs Zimbabwe 10AM
+England vs India 10:30PM
+
+[ content=football, address=tel:8801866742387, requestId=1530636150921, applicationId=APP_000001, encoding=0, version=1.0 ]
+[ content=*213*99#, address=tel:8801866742387, requestId=1530636567880, applicationId=APP_000001, encoding=440, version=1.0, sessionId=12367, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:8801866742387, requestId=1530636583743, applicationId=APP_000001, encoding=440, version=1.0, sessionId=12367, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Cricket of the day
+                    1.Today
+                    2.Tomorrow
+                    999.Back
+[ content=1, address=tel:8801866742387, requestId=1530636595505, applicationId=APP_000001, encoding=440, version=1.0, sessionId=12367, ussdOperation=mo-cont ]
+Previous Menu is := cricket
+Selected response message := Game of today:
+Australia vs Zimbabwe 10AM
+England vs India 10:30PM
+

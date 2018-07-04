@@ -44,3 +44,8 @@ Stack trace:
 #0 E:\laravel\gameoftoday\get_games.php(12): SmsReceiver->__construct()
 #1 {main}
   thrown in E:\laravel\gameoftoday\libraries\sms\SmsReceiver.php on line 37
+[03-Jul-2018 17:15:57 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Some of the required parameters are not provided in E:\laravel\gameoftoday\libraries\sms\SmsReceiver.php:37
+Stack trace:
+#0 E:\laravel\gameoftoday\get_games.php(12): SmsReceiver->__construct()
+#1 {main}
+  thrown in E:\laravel\gameoftoday\libraries\sms\SmsReceiver.php on line 37
