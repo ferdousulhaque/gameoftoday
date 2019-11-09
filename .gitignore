@@ -2,3 +2,4 @@
 ./applogs
 ./applogs/*
 composer.lock
+./eComPage/package-lock.json
