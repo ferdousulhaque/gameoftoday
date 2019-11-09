@@ -1,4 +1,4 @@
-/vendor
-/applogs
-/applogs/*
+./vendor
+./applogs
+./applogs/*
 composer.lock
